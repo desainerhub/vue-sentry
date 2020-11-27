@@ -1,5 +1,5 @@
 Sentry.init({
-  dsn: "https://04e54dc742284eb7851840e977798e12@o483326.ingest.sentry.io/5534852",
+  dsn: "https://036116fd98f342369f1f2e80e933f2d1@o483326.ingest.sentry.io/5534891",
   integrations: [
     new Sentry.Integrations.Vue({
       Vue,
