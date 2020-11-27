@@ -16,7 +16,7 @@ Sentry.init({
 var study = new Vue({
   el: "#vue-app",
   data: {
-    heading: "Vue.js + Bootstrap + Sentry",
+    heading: "Vue.js + Sentry",
     text: "Cuma buat test doank."
   }
 });
